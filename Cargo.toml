@@ -1,0 +1,10 @@
+[package]
+name = "paczek_paczek_nie_ma_raczek"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "=0.15.6"
+clearscreen = "3.0.0"
+rand="*"
+crossterm_cursor = "0.4.0"
